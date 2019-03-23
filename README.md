@@ -1,0 +1,2 @@
+# Fractal-Generator
+GUI Project
